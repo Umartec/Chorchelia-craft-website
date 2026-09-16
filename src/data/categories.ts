@@ -1,0 +1,68 @@
+import { Category } from '../types';
+
+export const CATEGORIES: Category[] = [
+  {
+    id: 'crochet-bags',
+    name: 'Crochet Bags',
+    slug: 'crochet-bags',
+    description: 'Handcrafted tote bags, shoulder pouches, and crossbody purses made from sturdy cotton yarn.',
+    image: 'https://images.unsplash.com/photo-1590874103328-eac38a683ce7?auto=format&fit=crop&w=480&q=75',
+    itemCount: 4,
+  },
+  {
+    id: 'flowers',
+    name: 'Flowers & Bouquets',
+    slug: 'flowers',
+    description: 'Forever blooming crochet tulips, daisies, sunflowers, and custom wrapped floral bouquets.',
+    image: 'https://images.unsplash.com/photo-1563245372-f21724e3856d?auto=format&fit=crop&w=480&q=75',
+    itemCount: 5,
+  },
+  {
+    id: 'keychains',
+    name: 'Keychains & Charms',
+    slug: 'keychains',
+    description: 'Delicate mini crochet animals, strawberries, heart charms, and aesthetic bag accessories.',
+    image: 'https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&w=480&q=75',
+    itemCount: 4,
+  },
+  {
+    id: 'home-decor',
+    name: 'Home Decor',
+    slug: 'home-decor',
+    description: 'Textured handmade coasters, tabletop plant cozies, and storage baskets to elevate your space.',
+    image: 'https://images.unsplash.com/photo-1607344645866-009c320c5ab8?auto=format&fit=crop&w=480&q=75',
+    itemCount: 3,
+  },
+  {
+    id: 'accessories',
+    name: 'Hair Accessories',
+    slug: 'accessories',
+    description: 'Soft ruffled yarn scrunchies, floral hair clips, and vintage style hair bandanas.',
+    image: 'https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=480&q=75',
+    itemCount: 3,
+  },
+  {
+    id: 'gifts',
+    name: 'Gifts & Bundles',
+    slug: 'gifts',
+    description: 'Curated keepsake gift sets for birthdays, graduations, anniversaries, and bridal showers.',
+    image: 'https://images.unsplash.com/photo-1549465220-1a8b9238cd48?auto=format&fit=crop&w=480&q=75',
+    itemCount: 3,
+  },
+  {
+    id: 'custom-crochet',
+    name: 'Custom Crochet',
+    slug: 'custom-crochet',
+    description: 'Personalized pieces in your favorite yarn colors, dimensions, and sentimental details.',
+    image: 'https://images.unsplash.com/photo-1582738411706-bfc8e691d1c2?auto=format&fit=crop&w=480&q=75',
+    itemCount: 2,
+  },
+  {
+    id: 'new-arrivals',
+    name: 'New Arrivals',
+    slug: 'new-arrivals',
+    description: 'Our most recent hand-stitched creations fresh off the crochet hook.',
+    image: 'https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=480&q=75',
+    itemCount: 4,
+  },
+];

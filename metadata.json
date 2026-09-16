@@ -1,0 +1,6 @@
+{
+  "name": "Chorchelia Craft ART",
+  "description": "Chorchelia Craft ART - Premium handmade crochet pieces crafted with love in Pakistan. Browse bags, bouquets, keychains, and custom orders with WhatsApp checkout, delivery timelines, and dynamic Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
